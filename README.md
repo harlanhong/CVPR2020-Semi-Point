@@ -38,11 +38,6 @@ As we mentioned in the paper, we use the interior and exterior patches and the l
 **or**
 
     python GetNCAAImageFace.py (For NCAA Dataset)
-The picture below is an illustration of extracting the exterior patch on the MS Dataset (left) and the NCAA Dataset (right).
-
-
-<img src=figures/Exterior_MS.jpg height="195">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src=figures/Exterior_NCAA.jpg height="195">
-
 
 ### **Train**
 Run the below conmmand to train the POINT<br>
