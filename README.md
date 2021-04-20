@@ -2,7 +2,7 @@
 This repository contains an official pytorch implementation for the following paper:<br>
 [Learning to Detect Important People in Unlabelled Images for Semi-supervised Important People Detection (CVPR 2020)](https://harlanhong.github.io/publication/learning-to-rank). [Fa-Ting Hong](https://harlanhong.github.io/), [Wei-Hong Li](https://weihonglee.github.io/), [Wei-Shi Zheng](http://isee.sysu.edu.cn/~zhwshi/)
 ![avatar](figures/framework.jpg)
-In order to save the cost on annotation, we develop a semi-supervised method on important people detection task. In this work, we mainly propose three strategies to address the challenges the bring by the massive unlabelled data.
+In order to save the cost on annotation, we develop a semi-supervised method on important people detection task. In this work, we mainly propose three strategies to address the challenges that bring by the massive unlabelled data.
 <!--TODO-->
 ### **Citation**
 Please kindly cite our paper (and the respective papers of the methods used) if you use this code in your own work:<br><br>
