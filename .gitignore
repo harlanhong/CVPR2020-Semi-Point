@@ -9,5 +9,5 @@ resultFile
 *.pyc
 
 *.txt
-
+.*
 
